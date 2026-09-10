@@ -1,0 +1,7 @@
+{
+  "versionCode": 18,
+  "versionName": "2.7",
+  "changelog": "Misafir süresi uzatma ve süresi yaklaşan/dolan kullanıcı bildirimleri eklendi.",
+  "sha256": "1b19dbe8c178b099b1d9e085537de397ff25b3d483ba2304413ef8ef6963bac1",
+  "apkUrl": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/v2.7/SmartDoor.apk"
+}
