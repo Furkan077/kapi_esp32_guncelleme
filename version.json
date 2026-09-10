@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "3.0",
-  "changelog": "Web'e giriş için telefondan onay ekranı eklendi (tek dokunuşla onayla/reddet)",
-  "sha256": "0664d87854a49dea12a9775c90106b13adda6cba5042c5cb415588a70894ccc2",
-  "apkUrl": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/v3.0/SmartDoor.apk"
+  "versionCode": 22,
+  "versionName": "3.1",
+  "changelog": "Yeni özellikler ve hata düzeltmeleri.",
+  "sha256": "ecda10c0611dc94dd4f76977d7fcce84ff1c56ac1bda6a22666346f9ed72c807",
+  "apkUrl": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/v3.1/SmartDoor.apk"
 }
