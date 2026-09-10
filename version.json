@@ -1,7 +1,7 @@
 {
   "versionCode": 20,
   "versionName": "2.9",
-  "changelog": "GitHub üzerinden ilk otomatik güncelleme testi.",
-  "sha256": "4d11d46b17d93553bc8ec4b71df52daa12ac33f39e1c563b97a8c68f37f1d2b2",
+  "changelog": "GitHub üzerinden ilk otomatik güncelleme testi. versionCode karşılaştırma hatası düzeltildi.",
+  "sha256": "b1ee65e437e1b9fc96b6cd4e6690ef32b68edfe2c6122f689368169cf8ba059e",
   "apkUrl": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/v2.9/SmartDoor.apk"
 }
