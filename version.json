@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "2.8",
-  "changelog": "Güncelleme sunucusu GitHub'a taşındı. Bu son yerel güncelleme — bundan sonra otomatik güncelleme internetten gelecek.",
-  "sha256": "de5ee2c32ace7f9369df4610c034780ea0e124351ff3b25156ffe0ac45ce6163",
-  "apkUrl": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/v2.8/SmartDoor.apk"
+  "versionCode": 20,
+  "versionName": "2.9",
+  "changelog": "GitHub üzerinden ilk otomatik güncelleme testi.",
+  "sha256": "4d11d46b17d93553bc8ec4b71df52daa12ac33f39e1c563b97a8c68f37f1d2b2",
+  "apkUrl": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/v2.9/SmartDoor.apk"
 }
