@@ -4,9 +4,9 @@
   "changelog": "MQTT web giris onaylari (pairing) destegi eklendi",
   "sha256": "f30348fddffebf4e12bc5d6fa4cff0cbeea2626681c2057491a512305a1e8380",
   "apkUrl": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/v3.26/SmartDoor.apk",
-  "esp32_version": "v1.1.10-release",
-  "esp32_url": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/esp32-v1.1.10-release/kapi11.bin",
-  "esp32_sha256": "7116c31d2b5f4f368e416c3abc906ea45d137f8bf08ac09be6c06451f07c63f0",
-  "esp32_changelog": "MQTT web giris onaylari (pairing) ve TCP soket limiti artirimi eklendi",
-  "esp32_built_at": "2026-09-14 13:23"
+  "esp32_version": "v1.1.11-release",
+  "esp32_url": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/esp32-v1.1.11-release/kapi11.bin",
+  "esp32_sha256": "30aa018f976b57ebaf6714bf293791ab41b431a93dc58581c57e3ad817c80501",
+  "esp32_changelog": "Yalova otomatik gun dogumu ve gun batimi bahce aydinlatmasi eklendi",
+  "esp32_built_at": "2026-09-14 13:53"
 }
