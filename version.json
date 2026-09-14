@@ -4,9 +4,9 @@
   "changelog": "Yeni özellikler ve hata düzeltmeleri.",
   "sha256": "04d7596c61b258b31c420397592aaa07b64b23f1b54f22a64ad3dffb99cdee8f",
   "apkUrl": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/v3.23/SmartDoor.apk",
-  "esp32_version": "v1.1.3-release",
-  "esp32_url": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/esp32-v1.1.3-release/kapi11.bin",
-  "esp32_sha256": "32a4d17721566f3da8f8610e29ae9d688570b298e5167071b02cb67724de40f6",
-  "esp32_changelog": "Yeni özellikler ve hata düzeltmeleri.",
-  "esp32_built_at": "2026-09-14 10:26"
+  "esp32_version": "v1.1.4-release",
+  "esp32_url": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/esp32-v1.1.4-release/kapi11.bin",
+  "esp32_sha256": "a402aedf6cc32957fed95a9d88d0149ed62d5d747ee6b61c46eb64d9a7a0b462",
+  "esp32_changelog": "Etiket ve soket düzeltmeleri (v1.1.3 ile aynı kod, doğru sürüm etiketi + LWIP soket artırımı)",
+  "esp32_built_at": "2026-09-14 11:05"
 }
