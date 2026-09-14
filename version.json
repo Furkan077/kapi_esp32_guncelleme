@@ -1,12 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "3.24",
+  "versionCode": 46,
+  "versionName": "3.25",
   "changelog": "Yeni özellikler ve hata düzeltmeleri.",
-  "sha256": "8dca3a64f1f14aec033ecc3304549b53532748b90dce3a0bdfcb4bfab0217aa7",
-  "apkUrl": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/v3.24/SmartDoor.apk",
-  "esp32_version": "v1.1.8-release",
-  "esp32_url": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/esp32-v1.1.8-release/kapi11.bin",
-  "esp32_sha256": "2c25a2fa1182031eb4d596fce193f0d6e22c324b91aaa0d8761e180540e9fe1a",
-  "esp32_changelog": "MQTT buzzer on/off ve baslangic destegi eklendi",
-  "esp32_built_at": "2026-09-14 13:07"
+  "sha256": "4b716ab6a2a5969cc05b1a6f7ac866af4bf05afb8b23ae17bded0ea07086afb5",
+  "apkUrl": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/v3.25/SmartDoor.apk"
 }
