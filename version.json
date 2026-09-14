@@ -4,9 +4,9 @@
   "changelog": "MQTT web giris onaylari (pairing) destegi eklendi",
   "sha256": "f30348fddffebf4e12bc5d6fa4cff0cbeea2626681c2057491a512305a1e8380",
   "apkUrl": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/v3.26/SmartDoor.apk",
-  "esp32_version": "v1.1.12-release",
-  "esp32_url": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/esp32-v1.1.12-release/kapi11.bin",
-  "esp32_sha256": "9e3833a8d5f58ab001a673eab03acef3f4d97d079657b4fd2239224653f1e96a",
-  "esp32_changelog": "MQTT entegrasyonu ve LED/durum duzeltmeleri",
-  "esp32_built_at": "2026-09-14 17:55"
+  "esp32_version": "v1.1.13-release",
+  "esp32_url": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/esp32-v1.1.13-release/kapi11.bin",
+  "esp32_sha256": "595546dd4c7a5d89c7be24b528b3c8faf617f3c36e71cf3270a5e58ef7c7938e",
+  "esp32_changelog": "MQTT ve GitHub OTA otomatik guncelleme testi",
+  "esp32_built_at": "2026-09-14 23:58"
 }
