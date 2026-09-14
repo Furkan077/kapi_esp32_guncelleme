@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "3.21",
+  "versionCode": 43,
+  "versionName": "3.22",
   "changelog": "Yeni özellikler ve hata düzeltmeleri.",
-  "sha256": "54ae3164492f155b995cd8d8eb67ab8a8c53142bc9ead775c0d505ffee24b741",
-  "apkUrl": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/v3.21/SmartDoor.apk"
+  "sha256": "f2a5299152dd9a9cf765b4ae0de274ff13b43ce83a8ce791a8e9c27273fc6160",
+  "apkUrl": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/v3.22/SmartDoor.apk"
 }
