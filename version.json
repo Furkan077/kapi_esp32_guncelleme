@@ -4,9 +4,9 @@
   "changelog": "Yeni özellikler ve hata düzeltmeleri.",
   "sha256": "cacb0737b6452d25c858a1230d12a5fe73d788a5e0e60f922c278906ea11ef6c",
   "apkUrl": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/v3.37/SmartDoor.apk",
-  "esp32_version": "v1.1.34-release",
+  "esp32_version": "v1.1.35-release",
   "esp32_url": "https://raw.githubusercontent.com/Furkan077/kapi_esp32_guncelleme/main/kapi11.bin",
-  "esp32_sha256": "61e411337ae6e5858ff5636990fe4adbcc19204e463155a185b1be9552a3c433",
-  "esp32_changelog": "Yeni özellikler ve hata düzeltmeleri.",
-  "esp32_built_at": "2026-09-16 10:40"
+  "esp32_sha256": "ea82fa483dc570f89126b1f70fb1b481850fa39f36069ca3b69d9e56f43d43a5",
+  "esp32_changelog": "BLE Cooldown 2sn siniri kaldirildi ve LED esikli Re-Arm guvenligi eklendi",
+  "esp32_built_at": "2026-09-17 20:26"
 }
