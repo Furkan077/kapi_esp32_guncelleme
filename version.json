@@ -4,9 +4,9 @@
   "changelog": "Yeni özellikler ve hata düzeltmeleri.",
   "sha256": "254616bc4f6406c586a9b476c09e2878051d9096c98cb4db1875e96823aea774",
   "apkUrl": "https://github.com/Furkan077/kapi_esp32_guncelleme/releases/download/v3.43/SmartDoor.apk",
-  "esp32_version": "v1.1.41-release",
+  "esp32_version": "v1.1.42-release",
   "esp32_url": "https://raw.githubusercontent.com/Furkan077/kapi_esp32_guncelleme/main/kapi11.bin",
-  "esp32_sha256": "85a8a17c4c7e6f7faaaeec708d4326d25deebf560cad9099c8cbe17a7e5288fa",
+  "esp32_sha256": "d27e30b25a176829beca2e07b883e880b3a339747efd27bc1e8edc0ba236bcc8",
   "esp32_changelog": "Yeni özellikler ve hata düzeltmeleri.",
-  "esp32_built_at": "2026-09-18 19:49"
+  "esp32_built_at": "2026-09-18 20:10"
 }
